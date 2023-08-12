@@ -21,20 +21,18 @@ To get started, follow these steps:
 
 1. Clone this repository:
 
-   ```sh
-   git clone https://github.com/your-username/your-project.git
-   ```
-
 Navigate to the project directory:
 
 Build and Run the Project:
 
 Use the following Makefile targets to build, test, and run the project:
 
-`make build`: Compiles the project.
-`make run`: Compiles and runs the project.
+    `make build`: Compiles the project.
+    `make run`: Compiles and runs the project.
+
 For example, to compile and run the project, execute:
 
-Option 2: 3. Execute `go build` to compile and construct the binary. 4. Launch the backend server using `./video-chat-app`, accessible at :8000.
+Option 2:  
+ Execute `go build` to compile and construct the binary. 4. Launch the backend server using `./video-chat-app`, accessible at :8000.
 
 Feel free to explore and expand upon this foundation to create innovative video chat applications using the power of WebRTC and Golang.
